@@ -1,6 +1,6 @@
 # Repositório de arquivos de Sumozão - Spark Team
 <p align="center">
-    <img src="./Images/spark.png" width="400px">
+    <img src="./spark.png" width="400px">
 </p>
 <p align="center">
 
